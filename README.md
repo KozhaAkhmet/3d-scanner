@@ -5,7 +5,7 @@ This project is based from [3d scanner by Bribro12 ](https://www.thingiverse.com
 # What is different
 
 The program from original author was a little confusing so I wrote my own. Also, I added I2C Adapter for LCD screen. 
-Todo: The design is changed a little, made a space for I2C adapter and snappable screen cover.
+Todo: The design has been changed a little, with a space for the I2C adapter and a snappable screen cover.
 
 # Components
 - Arduino UNO
